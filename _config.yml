@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kyle
+name: Kyle Fawkes
 
 # Short bio or description (displayed in the header)
 description: Student at Quest University 
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: 
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: kwfawkes
   instagram:
   linkedin:
   pinterest:
